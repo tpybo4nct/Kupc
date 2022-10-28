@@ -1,0 +1,13 @@
+body{
+	background-color:black ;
+	color: white;
+}
+@media (max-width: 600px) {
+body{
+	background-color:white;
+	color: black;
+}
+}
+li {
+    list-style-type: none;
+   }
